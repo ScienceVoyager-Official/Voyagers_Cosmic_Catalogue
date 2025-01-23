@@ -60,5 +60,6 @@ Download the _Cosmic Catalogue_ — your essential guide to celestial navigation
 > **Website:** _Science Voyager's Official Website_
 
 <br>
+
 Dive into the _Cosmic Catalogue_ and join us on this incredible journey through the universe. Don’t forget to subscribe to _Science Voyager_ on YouTube to stay updated on our latest videos, Easter egg hunts, and other interactive features. More adventure awaits! 
 
