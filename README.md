@@ -16,7 +16,7 @@ _Voyager's Cosmic Catalogue_ is your trusted resource as you explore the myster
 
 <figure>
   <img src="Celestial Equator RA-Dec coordinates.jpg" alt="Celestial Equator RA-Dec coordinates">
-  <figcaption>The coordinates of the bright stars <i>Betelgeuse</i> and <i>Sirius</i> are illustrated here, providing a glimpse into the section of the sky divided by the celestial equator. In this diagram, hours of Right Ascension (RA) are labeled along the top, and Declination (Dec) is marked on the left, offering a detailed reference that will aid in solving the Easter egg clues, the answer to which lay hidden among the celestial objects listed in the Catalogue.</figcaption>
+  <figcaption>The coordinates of the bright stars <i>Betelgeuse</i> and <i>Sirius</i> are illustrated here, providing a glimpse into the section of the sky divided by the celestial equator. In this diagram, hours of <i><b>Right Ascension (RA)</b></i> are labeled along the top, and <i><b>Declination (Dec)</b></i> is marked on the left, offering a detailed reference that will aid in solving the Easter egg clues, the answer to which lay hidden among the celestial objects listed in the Catalogue.</figcaption>
 </figure>
 
 <br><br>
