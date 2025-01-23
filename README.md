@@ -4,7 +4,7 @@
 
 **Ready to embark on an exciting journey through the cosmos?**
 
-_Voyager's Cosmic Catalogue_ is your trusted resource as you explore the mysteries of the universe alongside _Science Voyager_. This _repository_ is an essential companion to our YouTube channel, where we get immersed in the wonders of the universe—from Stardust to Singularity. Here, you'll discover celestial objects, and their coordinates, all neatly curated for your exploration. 
+_Voyager's Cosmic Catalogue_ is your trusted resource as you explore the mysteries of the universe alongside _Science Voyager_. This _repository_ is an essential companion to our YouTube channel, where we get immersed in the wonders of the universe — from Stardust to Singularity. Here, you'll discover celestial objects, and their coordinates, all neatly curated for your exploration. 
 <br><br>
 
 **What’s Inside the Catalogue?**
@@ -50,7 +50,7 @@ This format helps pinpoint the locations of stars, black holes, and other celest
 point to the star _Vega_, the brightest in the constellation _Lyra_. To make the search less daunting, the constellation name (in this case, _Lyra_) would be mentioned in the video description, helping you narrow down your search and enjoy the experience without feeling overwhelmed.
 <br><br>
 
-Download the _Cosmic Catalogue_—your essential guide to celestial navigation and exploration, from this repository. 
+Download the _Cosmic Catalogue_ — your essential guide to celestial navigation and exploration, from this repository. 
 <br><br>
 
 **Additional Information**
