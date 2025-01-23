@@ -14,6 +14,12 @@ _Voyager's Cosmic Catalogue_ is your trusted resource as you explore the myster
 - **Resources:** Access additional files (uploaded when necessary) and documentation to help you navigate the catalogue and engage with the cosmic easter eggs or future challenges we feature. 
 <br><br>
 
+<figure>
+  <img src="Celestial Equator RA-Dec coordinates.jpg" alt="Celestial Equator RA-Dec coordinates">
+  <figcaption>The coordinates of the bright stars <i>Betelgeuse</i> and <i>Sirius</i> are illustrated here, providing a glimpse into the section of the sky divided by the celestial equator. In this diagram, hours of Right Ascension (RA) are labeled along the top, and Declination (Dec) is marked on the left, offering a detailed reference that will aid in solving the Easter egg clues, the answer to which lay hidden among the celestial objects listed in the Catalogue.</figcaption>
+</figure>
+
+<br><br>
 **How to Use Voyager’s Cosmic Catalogue?**
 
 - **Locate Easter Egg Clues:** As you watch our Science Voyager videos, keep an eye out for hidden Easter egg clues, including coordinates encoded in Morse code (or other encodings) or subtle hints pointing to specific stars, black holes, and more. These will lead you to the mystery entries in the catalogue.
@@ -44,7 +50,7 @@ This format helps pinpoint the locations of stars, black holes, and other celest
 point to the star _Vega_, the brightest in the constellation _Lyra_. To make the search less daunting, the constellation name (in this case, _Lyra_) would be mentioned in the video description, helping you narrow down your search and enjoy the experience without feeling overwhelmed.
 <br><br>
 
-Download the Cosmic Catalogue—your essential guide to celestial navigation and exploration, from this repository. 
+Download the _Cosmic Catalogue_—your essential guide to celestial navigation and exploration, from this repository. 
 <br><br>
 
 **Additional Information**
