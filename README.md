@@ -1,4 +1,4 @@
-# Voyager's_Cosmic_Catalogue
+# Voyager's Cosmic Catalogue
 
 ### Welcome Aboard, Voyager!
 
